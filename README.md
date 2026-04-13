@@ -80,11 +80,8 @@ This repository is a dedicated space for personal experimentation and learning w
 
 ## Tech Stack
 ![codeigniter](https://www.readmecodegen.com/api/social-icon?name=codeigniter&size=48)
-
 ![php](https://www.readmecodegen.com/api/social-icon?name=php&size=48)
-
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=48)
-
 ![bootstrap](https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=48)
 
 * **PHP**
