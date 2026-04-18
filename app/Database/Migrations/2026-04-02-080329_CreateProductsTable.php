@@ -28,7 +28,11 @@ class CreateProductsTable extends Migration
                 'type' => 'INTEGER',
                 'null' => false
             ],
-            
+            'image' => [
+                'type' => 'VARCHAR',
+                'constraint' => 255,
+                'null' => true
+            ],
             'created_at' => [
                 'type' => 'DATETIME',
                 'null' => false
@@ -45,6 +49,6 @@ class CreateProductsTable extends Migration
 
     public function down()
     {
-        //
+        $this->forge->dropTable('products');
     }
 }

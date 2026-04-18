@@ -73,24 +73,28 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 This repository is a dedicated space for personal experimentation and learning with the **CodeIgniter** framework. It serves as a sandbox for testing features, exploring the MVC architecture, and understanding the framework's workflow.
 
 ## Project Purpose
-* Practicing CodeIgniter core concepts and best practices.
-* Experimenting with routing, controllers, and models.
-* Testing built-in libraries and custom helper functions.
-* Hands-on learning of PHP framework mechanics.
+
+- Practicing CodeIgniter core concepts and best practices.
+- Experimenting with routing, controllers, and models.
+- Testing built-in libraries and custom helper functions.
+- Hands-on learning of PHP framework mechanics.
 
 ## Tech Stack
+
 ![codeigniter](https://www.readmecodegen.com/api/social-icon?name=codeigniter&size=48)
 ![php](https://www.readmecodegen.com/api/social-icon?name=php&size=48)
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=48)
 ![bootstrap](https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=48)
 
-* **PHP**
-* **CodeIgniter 4**
-* **Composer** (Dependency Management)
-* **MySQL** (Database)
+- **PHP**
+- **CodeIgniter 4**
+- **Composer** (Dependency Management)
+- **MySQL** (Database)
 
 ## Project Status
+
 This is a **non-production** repository used strictly for educational purposes and trial-and-error development.
 
 ---
-*Developed for learning and experimentation.*
+
+_Developed for learning and experimentation._

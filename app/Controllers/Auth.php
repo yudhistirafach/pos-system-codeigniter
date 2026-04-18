@@ -37,12 +37,12 @@ class Auth extends BaseController
         }
 
         $session->set([
-            'username' => $data['username'],
+            'username' => $data['username'],    
             'isLoggedIn' => true,
             'loggedInAt' => date('Y-m-d H:i:s')
         ]);
 
-        return redirect()->to('/');
+        return redirect()->to('/dashboard');
         
     }   
 }

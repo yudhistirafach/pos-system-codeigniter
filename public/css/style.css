@@ -43,10 +43,10 @@ nav.navbar {
 }
 
 sidebar.active {
-    background-color: blue;
+  background-color: blue;
 }
 
-main {
+main.dashboard {
   position: absolute;
   top: 72px;
   right: 0;
@@ -57,6 +57,41 @@ main {
 
 #sidebarshow {
   display: none;
+}
+
+.product-form-card {
+  border-radius: 1.25rem;
+  box-shadow: 0 24px 50px rgba(15, 23, 42, 0.45);
+  padding: 2rem;
+  margin-top: 1.5rem;
+}
+
+.product-form-card .form-label {
+  color: #e2e8f0;
+  font-weight: 600;
+}
+
+.product-form-card .form-control {
+  border-color: #334155;
+  color: #e2e8f0;
+}
+
+.product-form-card .form-control::placeholder {
+  color: #94a3b8;
+}
+
+.product-form-card .btn-primary {
+  background-color: #4f63ff;
+  border-color: #4556e6;
+}
+
+.product-form-card .btn-primary:hover {
+  background-color: #3f52db;
+  border-color: #374ad0;
+}
+
+.product-form-card input[type="file"] {
+  background-color: #111827;
 }
 
 @media screen and (max-width: 767px) {

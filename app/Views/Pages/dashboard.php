@@ -2,7 +2,7 @@
 <?= $this->section('content') ?>
 
 <!-- Content of the main body - heres the main content like graph, tables, etc... -->
- <main class="col-sm-10 bg-body-tertiary" id="main">
+ <main class="col-sm-10 bg-body-tertiary dashboard">
 
      <div class="container-fluid">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom" id="title">
